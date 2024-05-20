@@ -1,0 +1,22 @@
+.total select{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.total input {
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 20px;
+}
+.total a {
+    position: absolute;
+    margin-left: 560px;
+    margin-top: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.total h5{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 560px;
+    letter-spacing: 1px;
+}

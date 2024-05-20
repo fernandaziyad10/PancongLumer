@@ -1,0 +1,100 @@
+*{
+    margin  : 0;
+}
+.foto1 img{
+    padding-left: 0px;
+    width: 1290px;
+    height: 450px;
+}
+.foto1 h2{
+    position: absolute;
+    margin-top :175px;
+   margin-left:490px;
+   color:rgb(255, 255, 255);
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   letter-spacing: 2px;
+}
+.foto1 p{
+    position: absolute;
+    margin-top : 160px;
+    margin-left:520px;
+    font-weight: bolder;
+    font-size: 50px;;
+}
+.foto1 h5{
+    position: absolute;
+    margin-top:235px;
+    margin-left:470px;
+    color:black
+}
+.foto1 h6{
+    position: absolute;
+    margin-top:265px;
+    margin-left:478px;
+    font-size: 14px;
+    color:rgb(0, 0, 0);
+    
+}
+.pesan h3{
+    position: absolute;
+    margin-top :30px;
+    margin-left: 550px;
+    letter-spacing: 2px;
+}
+.card1 {
+    display: flex;
+    margin-left:220px;
+    margin-top:90px;
+   
+}
+.card2 {
+    display: flex;
+    margin-left:330px;
+    margin-top :30px;
+}
+.carda img{
+    height: 187px;
+    width: 280px;
+}
+
+.cardb img{
+    width: 282px;
+}
+.cardc img{
+    height: 187px;
+    width: 280px;
+}
+.cardd img{
+    height: 187px;
+    width: 280px;
+}
+.carde img {
+    height: 187px;
+    width: 280px;
+}
+.carda a{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cardb a{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cardc a{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.cardd a {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.carde a {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.footer p{
+    text-align: center;
+    background-color: brown;
+    color:white;
+}
